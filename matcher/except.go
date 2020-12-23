@@ -1,8 +1,8 @@
 package matcher
 
 import (
-  "entutils/field"
-  "entutils/stringset"
+  "github.com/stefanoprea/entutils/field"
+  "github.com/stefanoprea/entutils/stringset"
 )
 
 func (self matcherImpl) Except(exceptedFields ...string) matcher {

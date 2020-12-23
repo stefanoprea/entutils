@@ -1,7 +1,7 @@
 package matcher
 
 import (
-  "entutils/field"
+  "github.com/stefanoprea/entutils/field"
   "fmt"
   "github.com/onsi/gomega/types"
 )
