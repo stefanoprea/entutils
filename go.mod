@@ -1,4 +1,4 @@
-module entutils
+module github.com/stefanoprea/entutils
 
 go 1.15
 
